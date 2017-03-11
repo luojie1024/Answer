@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.answer"
+    package="huas.fur.Answer"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="18" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="22" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -18,7 +18,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.answer.activity.MainActivity"
+            android:name="answer.example.answer.activity.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,40 +27,40 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.answer.activity.AnalogyExaminationActivity"
+            android:name="answer.example.answer.activity.AnalogyExaminationActivity"
             android:configChanges="keyboardHidden|navigation|orientation"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.example.answer.activity.MyErrorQuestionActivity"
+            android:name="answer.example.answer.activity.MyErrorQuestionActivity"
             android:configChanges="keyboardHidden|navigation|orientation"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.example.answer.activity.MyErrorQuestionDetailActivity"
+            android:name="answer.example.answer.activity.MyErrorQuestionDetailActivity"
             android:configChanges="keyboardHidden|navigation|orientation"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.example.answer.activity.FullVideoActivity"
+            android:name="answer.example.answer.activity.FullVideoActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="Video"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.example.answer.activity.VideoListActivity"
+            android:name="answer.example.answer.activity.VideoListActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="Video"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.example.answer.activity.FileChooserActivity"
+            android:name="answer.example.answer.activity.FileChooserActivity"
             android:exported="true"
             android:icon="@drawable/ic_chooser"
             android:label="@string/choose_file" >

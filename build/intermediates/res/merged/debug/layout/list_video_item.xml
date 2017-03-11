@@ -35,7 +35,7 @@
                 android:layout_centerInParent="true"
                 android:src="@drawable/newplay" />
 
-            <com.example.answer.util.VideoSuperPlayer
+            <answer.example.answer.util.VideoSuperPlayer
                 android:id="@+id/video"
                 android:layout_width="match_parent"
                 android:layout_height="200dip"

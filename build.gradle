@@ -17,7 +17,14 @@ dependencies {
 android {
     compileSdkVersion 19
     buildToolsVersion "24.0.3"
-
+    defaultConfig {
+        applicationId "huas.fur.Answer"
+        minSdkVersion 19
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'

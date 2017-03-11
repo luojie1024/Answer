@@ -17,7 +17,7 @@
         android:layout_below="@id/header"
         >
 
-        <com.example.answer.view.VoteSubmitViewPager
+        <answer.example.answer.view.VoteSubmitViewPager
             android:id="@+id/vote_submit_viewpager"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"

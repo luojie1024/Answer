@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.answer.test">
+    package="huas.fur.Answer.test" >
 
-    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="18" />
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="22" />
+
+    <instrumentation
+        android:name="com.android.test.runner.MultiDexTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for huas.fur.Answer"
+        android:targetPackage="huas.fur.Answer" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
-    <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.example.answer"
-                     android:handleProfiling="false"
-                     android:functionalTest="false"
-                     android:label="Tests for com.example.answer"/>
 </manifest>

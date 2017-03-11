@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         android:layout_centerInParent="true" />
 
-    <com.example.answer.util.VideoMediaController
+    <answer.example.answer.util.VideoMediaController
         android:id="@+id/controller"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
