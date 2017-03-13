@@ -134,6 +134,7 @@ public class AnalogyExaminationActivity extends Activity {
                                                   // 时间到
                                                   if (isFirst == 1) {
                                                             showTimeOutDialog(true, "0");
+                                                            System.out.println(123);
                                                   }
                                                   right.setText("00:00");
                                                   if (timer != null) {
