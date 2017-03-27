@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\space\NO3\Answer\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0f2f8366711e94206ada69b23664de67ec1ca62b">
+        <dex dex="D:\space\NO3\Answer\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fb39bf82a3637bc6d8088f2de4fdc42c759acc9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\space\NO3\Answer\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="D:\space\NO3\Answer\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_b840382c464caf6d23d0c2483911a8c024e9904b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\space\NO3\Answer\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e0d9c2225294d51f893fccb942f6ed7b4a5b4da">
+        <dex dex="D:\space\NO3\Answer\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c7f31b4c0f0bfb3531a15a4d89c79903e0f71425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\space\NO3\Answer\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\space\NO3\Answer\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_cb3f05fbb85c3d9e3cd01180ecf48187b1cce18b\classes.dex" />
+    </item>
+
+</items>
