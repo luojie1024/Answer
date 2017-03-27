@@ -221,7 +221,6 @@ public class AnalogyExaminationActivity extends Activity {
                     initView();
                     loadData();
                     //TODO
-                    System.out.println(123);
                     errorQuestionInfos = dbManager.queryAllData();
                     if (errorQuestionInfos != null) {
                               // 删除上次保存的我的错题
