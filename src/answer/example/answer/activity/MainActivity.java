@@ -174,7 +174,7 @@ public class MainActivity extends Activity {
                                                   if (path != null && FileUtils.isLocal(path)) {
                                                             try {
                                                                       int sum=0,flag=0;
-                                                                      String encoding = "GBK";
+                                                                      String encoding = "UTF-16";
                                                                       File file = new File(path);
                                                                       if (file.isFile() && file.exists()) { //判断文件是否存在
                                                                                 InputStreamReader read = new InputStreamReader(

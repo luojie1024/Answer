@@ -5,30 +5,30 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="21993929695267"
+    timestamp="17012299235489"
     token="-4984372813679274091"
-    verifier="MANIFEST_FILE_CHANGE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="952" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="2475" />
     <task
         name="verifier"
-        duration="0" />
+        duration="673" />
 
     <artifact
         location="D:\space\NO3\Answer\build\outputs\apk\Answer-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="21993929695267"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="17012299235489"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\space\NO3\Answer\build\outputs\apk\Answer-debug.apk"
             type="MAIN" />
