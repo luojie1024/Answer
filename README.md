@@ -30,11 +30,9 @@
 功能介绍：
 ----
 
-
 <h1 align = "center"><h4 align = "center">【主界面】</h4></h1>
 
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E4%B8%BB%E7%95%8C%E9%9D%A2.png?raw=true"/></div>
-=====
 
 <h4 align = "center">【选择题库】</h4>   
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E9%80%89%E6%8B%A9%E8%AF%95%E5%8D%B7.png?raw=true"/></div> 
@@ -44,21 +42,16 @@
 <h4 align = "center">【提交得分】</h4> 
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E7%AD%94%E9%A2%98%E7%BB%93%E6%9E%9C.png?raw=true"/></div>
 
-----
 
 <h4 align = "center">【错题查看】</h4>  
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E6%88%91%E7%9A%84%E9%94%99%E9%A2%98.png?raw=true"/></div> 
 
-<h4 align = "center">【随机抽题】</h4>
+<h4 align = "center">【我的错题】</h4>
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E9%94%99%E9%A2%98%E8%AF%A6%E8%A7%A3.png?raw=true"/></div> 
 
----
 <h4 align = "center">【随机抽题】</h4> 
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E9%9A%8F%E6%9C%BA%E6%8A%BD%E9%A2%98.png?raw=true"/></div>
 
-
-
------
 
 <h4 align = "center">【视频教学】</h4>
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E8%A7%86%E9%A2%91%E9%A2%98%E7%9B%AE.jpg?raw=true)
@@ -67,8 +60,6 @@
 <h4 align = "center">【视频教学】</h4>
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E8%A7%86%E9%A2%91%E6%95%99%E5%AD%A6.png?raw=true"/></div>
 
-
-----
 
 <h4 align = "center">【数据导入】</h4> 
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E5%BD%95%E5%85%A5%E6%A0%BC%E5%BC%8F.png?raw=true"/></div>
