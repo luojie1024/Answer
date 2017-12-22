@@ -28,9 +28,9 @@
 ##### 这是自己第一个赚钱的code，花了一周时间完成，使用SQLite数据库，集成了一些网上现有UI的，编写了答题，抽题等逻辑，给需要的朋友一个参考。
 
 功能介绍：
-----
+=====
 
-<h1 align = "center"><h4 align = "center">【主界面】</h4></h1>
+<h4 align = "center">【主界面】</h4>
 
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E4%B8%BB%E7%95%8C%E9%9D%A2.png?raw=true"/></div>
 
@@ -54,7 +54,8 @@
 
 
 <h4 align = "center">【视频教学】</h4>
-<div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E8%A7%86%E9%A2%91%E9%A2%98%E7%9B%AE.jpg?raw=true)
+<div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E8%A7%86%E9%A2%91%E9%A2%98%E7%9B%AE.jpg?raw=true"/></div>
+  
 <h4 align = "center">【视频教学】</h4> 
 <div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E7%82%B9%E5%87%BB%E8%A7%86%E9%A2%91%E8%A7%82%E7%9C%8B.png?raw=true"/></div>
 <h4 align = "center">【视频教学】</h4>
