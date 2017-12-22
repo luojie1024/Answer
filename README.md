@@ -1,8 +1,7 @@
 # Answer
 
 [![](https://user-gold-cdn.xitu.io/2017/12/13/1604ec3c62a7de14)](https://travis-ci.org/Alamofire/Alamofire)  [![](https://img.shields.io/cocoapods/dt/AFNetworking.svg)]()   ![](https://img.shields.io/badge/platform-android-green.svg)
-![](https://img.shields.io/badge/language-java-green.svg)  
-![](https://img.shields.io/badge/version-v1.0-green.svg)
+![](https://img.shields.io/badge/language-java-green.svg)  ![](https://img.shields.io/badge/version-v1.0-green.svg)
 
 ## 医学考试APP
    * 模拟考试
@@ -32,12 +31,12 @@
 功能介绍：   
 【主界面】 
 =====
-![github](https://github.com/luojie1024/Answer/blob/master/screenshots/%E4%B8%BB%E7%95%8C%E9%9D%A2.png?raw=true){:height="100px" width="400px"}
+<div align=center><img width="512" src="https://github.com/luojie1024/Answer/blob/master/screenshots/%E4%B8%BB%E7%95%8C%E9%9D%A2.png?raw=true"/></div>
 
 【模拟考试】 
 =====
 ### 选择题库，模拟考试，提交得分，错题查看  
-![github](https://github.com/luojie1024/Answer/blob/master/screenshots/%E9%80%89%E6%8B%A9%E8%AF%95%E5%8D%B7.png?raw=true) 
+![github](https://github.com/luojie1024/Answer/blob/master/screenshots/%E9%80%89%E6%8B%A9%E8%AF%95%E5%8D%B7.png?raw=true =100x20) 
 ![github](https://github.com/luojie1024/Answer/blob/master/screenshots/%E6%A8%A1%E6%8B%9F%E7%AD%94%E9%A2%98.png?raw=true) 
 ![github](https://github.com/luojie1024/Answer/blob/master/screenshots/%E7%AD%94%E9%A2%98%E7%BB%93%E6%9E%9C.png?raw=true)
 【我的错题】
